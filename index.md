@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/parkermas/gov1347-blog/blob/gh-pages/09_13.md) and ![Image](src)
+[Link](https://github.com/parkermas/gov1347-blog/blob/gh-pages/09-13.md) and ![Image](src)
 ```
 
 [Link](https://github.com/parkermas/gov1347-blog/blob/gh-pages/09-13.md)
