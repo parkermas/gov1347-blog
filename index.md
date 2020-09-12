@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](https://github.com/parkermas/gov1347-blog/blob/gh-pages/09-13.md) and ![Image](src)
 ```
 
-[a relative link](09-13.md)
+[Link](https://parkermas.github.io/gov1347-blog/09-13)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
