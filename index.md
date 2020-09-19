@@ -9,3 +9,5 @@ My name is Parker Mas, and I am currently a junior at Harvard College studying G
 
 **[1. What's in a Swing State?](https://parkermas.github.io/gov1347-blog/09-13)**
 
+**[2. The Economy: National vs. Local Models](https://parkermas.github.io/gov1347-blog/09-19)**
+
