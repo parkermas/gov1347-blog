@@ -11,3 +11,4 @@ My name is Parker Mas, and I am currently a junior at Harvard College studying G
 
 **[2. The Economy: National vs. Local Models](https://parkermas.github.io/gov1347-blog/09-19)**
 
+**[2. Predicting 2020 with Polling Data](https://parkermas.github.io/gov1347-blog/09-26)**
