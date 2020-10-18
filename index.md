@@ -16,3 +16,5 @@ My name is Parker Mas, and I am currently a junior at Harvard College studying G
 **[4. Exploring Incumbency and the "Time for Change" Model](https://parkermas.github.io/gov1347-blog/10-03)**
 
 **[5. Probabilistic Models & Presidential Election 2020](https://parkermas.github.io/gov1347-blog/10-10)**
+
+**[6. Probabilistic Models II: Turnout](https://parkermas.github.io/gov1347-blog/10-17)**
