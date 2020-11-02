@@ -21,3 +21,6 @@ My name is Parker Mas, and I am currently a junior at Harvard College studying G
 
 **[7. Probabilistic Models III: Demographics](https://parkermas.github.io/gov1347-blog/10-24)**
 
+**[8. Final Pre-Election Prediction](https://parkermas.github.io/gov1347-blog/10-31)**
+
+
