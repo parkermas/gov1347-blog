@@ -25,4 +25,6 @@ My name is Parker Mas, and I am currently a junior at Harvard College studying G
 
 **[9. Election Prediction Reflection](https://parkermas.github.io/gov1347-blog/11-21)**
 
+**[10. Election Narrative](https://parkermas.github.io/gov1347-blog/12-10)**
+
 
